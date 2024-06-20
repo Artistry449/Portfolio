@@ -13,10 +13,10 @@ export default function Home() {
             <h1>Artistry</h1>
             <p>artistry449@gmail.com</p>
             <div className="links_container">
-                <a href="https://github.com/Artistry449"><img src={Instagram} alt="Instagram logo" /></a>
+                <a href="https://www.instagram.com/artistry_449/"><img src={Instagram} alt="Instagram logo" /></a>
                 <a href="https://github.com/Artistry449"><img src={GitHub} alt="GitHub logo" /></a>
                 <a href="https://medium.com/@ganboldenkhbayar0823"><img src={Medium} alt="Medium logo" /></a>
-                <a href="https://github.com/Artistry449"><img src={SoundCloud} alt="SoundCloud logo" /></a>
+                <a href="https://soundcloud.com/nkhpg"><img src={SoundCloud} alt="SoundCloud logo" /></a>
             </div>
         </div>
     )
