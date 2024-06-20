@@ -13,12 +13,12 @@
 
 .main_container>img {
     height: auto;
-    width: 50%;
+    width: 60%;
     max-width: 200px;
     border-radius: 50%;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
     .main_container>img {
         width: 70%;
         max-width: 150px;
@@ -30,7 +30,7 @@
         width: 80%;
         max-width: 100px;
     }
-}
+} */
 
 .links_container {
     display: flex;
